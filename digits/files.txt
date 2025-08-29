@@ -1,3 +1,4 @@
+data/digit2.png 2
 data/cdf0361_07_13_0.jpg 0
 data/cdf1697_45_29_0.jpg 0
 data/cdf0872_30_6_1.jpg 0
